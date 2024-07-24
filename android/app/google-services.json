@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244011349873",
+    "project_id": "cylinderapp-525f4",
+    "storage_bucket": "cylinderapp-525f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244011349873:android:ae5b5f63f578f1309468d0",
+        "android_client_info": {
+          "package_name": "com.mycompany.cylindermate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFocQjrg4OR_BF2SMNIl7YvCm3EtesPL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
